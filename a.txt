@@ -3,6 +3,7 @@ F:123
 E:2222
 person1:数风流人物
 Person2:还看今朝
+don't say show me code
 
 
 
